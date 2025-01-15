@@ -15,6 +15,7 @@ This repository contains a Python script and Matlab scripts for generating train
 - Pandas
 - Matplotlib
 - Scikit-learn
+- MATLAB 2022+
 
 Install dependencies using:
 ```bash
